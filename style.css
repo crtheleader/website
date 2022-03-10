@@ -1,0 +1,166 @@
+
+*
+{
+	font-family: Copperplate, Papyrus, fantasy;
+}
+.logo
+{
+	font-size: 28px;
+	
+}
+.logo img
+{
+	float: right;
+	width: 100px;
+	height: 100px;
+
+}
+.logo_right
+	float: left;	
+
+}
+.logo_right a
+{
+	color: greenyellow;
+	text-decoration: none;
+	padding-right: 25px;
+
+
+
+}
+
+
+.nav
+{
+	float: left;
+	width: 100%;
+	background-image:url("banner.png");
+	padding-bottom: 20px;
+	}
+.nav ul
+{
+	list-style-type: none;
+	font-size: 28px;
+
+	
+	
+
+}
+.nav ul li
+{
+	display: inline;
+	float: left;
+	padding-right: 35px;
+	
+
+
+}
+.nav ul li a
+{
+	text-decoration: none;
+	color: whitesmoke;
+	text-align: center;
+	font-size: 28px;
+
+}
+.nav ul li a:hover
+{
+	color: green;
+	background-color: white;
+	border:solid whitesmoke;
+}
+.left-logo
+{
+	
+	 width: 100%;
+	 text-align: justify;
+
+
+}
+.left-logo img
+{
+	float: left;
+	 width: 100px;
+	 height: 100px;
+
+}
+.table
+{
+	border: 2px solid red;
+	width: 100%;
+}
+
+.table tr th
+{
+	color: green;
+	font-family: Copperplate, Papyrus, fantasy;
+	font-size: 24px;
+	border: 2px solid black;
+	text-align: center;
+
+
+}
+.table tr td 
+{
+	border: 1px solid black;
+	font-size: 28px;
+	text-align: center;
+
+}
+.table tr td a 
+{
+	list-style-type: none;
+	text-decoration: none;
+	color: navyblue;
+
+}
+.table tr td a:hover
+{
+	background-color:crimson;
+	width: 100%;
+}
+.body
+{
+
+padding-top: 150px;
+text-align: center;
+	
+
+}
+.table_desc
+{
+
+	background-image: url("back.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding-bottom: 1px;
+	width: 100%;
+
+
+}
+.table_desc p
+{
+	color: ;
+	font-size: 20px;
+	
+
+
+}
+.footer
+{
+	
+	background-color:#a8d5e5;
+	color: #5d87a0;
+	color: whitesmoke;
+	font-size: 24px;
+		
+}
+.right_foot
+{
+float: right;
+
+}
+.point
+{
+	font-family: Calibri;
+}
